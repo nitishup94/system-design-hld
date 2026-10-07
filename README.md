@@ -11,7 +11,6 @@ Welcome! This repository is a growing collection of notes on **High-Level Design
 | --- | ------------------------------------------------------------------------- |
 | 1   | [**Types of Server Architecture**](pages/server/types-of-server-architecture.md) |
 
-
 ---
 
 ## System Design (HLD)
