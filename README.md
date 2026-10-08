@@ -7,17 +7,19 @@ Welcome! This repository is a growing collection of notes on **High-Level Design
 ## Server Architecture
 
 
-| #   | Topic                                                                     |
-| --- | ------------------------------------------------------------------------- |
+| #   | Topic                                                                            |
+| --- | -------------------------------------------------------------------------------- |
 | 1   | [**Types of Server Architecture**](pages/server/types-of-server-architecture.md) |
+| 2   | [**OSI Model — 7 Layers and Load Balancer**](pages/server/osi-load-balancer.md)                    |
+
 
 ---
 
 ## System Design (HLD)
 
 
-| #   | Topic                                       |
-| --- | ------------------------------------------- |
+| #   | Topic                                              |
+| --- | -------------------------------------------------- |
 | 1   | [**URL Shortener**](pages/system/url-shortener.md) |
 
 
