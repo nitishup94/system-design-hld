@@ -11,7 +11,8 @@ Welcome! This repository is a growing collection of notes on **High-Level Design
 | --- | -------------------------------------------------------------------------------- |
 | 1   | [**Types of Server Architecture**](pages/server/types-of-server-architecture.md) |
 | 2   | [**OSI Model — 7 Layers and Load Balancer**](pages/server/osi-load-balancer.md)  |
-| 3   | [**SOLID Principles**](pages/server/solid.md)                                                                                  |
+| 3   | [**SOLID Principles**](pages/server/solid.md)                                    |
+| 4   | [**System Design Questions Series 1**](pages/server/system-qn-s-1.md)                                                                               |
 
 
 ---
